@@ -1,0 +1,3 @@
+# Excel_TO_Mysql
+Excel
+通过xlrd和pymysql库实现将excel的数据导入到mysql数据库中
